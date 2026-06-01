@@ -1,7 +1,7 @@
 # swnet
 Shared-Kernel Wavelet Networks for Near-Sensor Poisson Image Reconstruction
 IEEE Sensors Journal
-## Laplacian Fields are sparse and statisitically stable.
+## Laplacian Fields are sparse and statistically stable.
 ![image](sparse.PNG)
 ## wavelet guided neural networks
 ![image](PoissonNetwork.jpg)
