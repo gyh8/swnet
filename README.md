@@ -7,5 +7,5 @@ Shared-Kernel Wavelet Networks for Near-Sensor Poisson Image Reconstruction, acc
 ![image](sparse.png)
 ## 3) train the network for Poisson equation
 ![image](acc.png)
-## our method is more accurate
+## 4) our method is more accurate
 ![image](rec.png)
