@@ -1,11 +1,11 @@
 # swnet
 Shared-Kernel Wavelet Networks for Near-Sensor Poisson Image Reconstruction, accepted by IEEE Sensors Journal
 
-## wavelet guided neural networks
+## 1) wavelet guided neural networks with shared-kernel
 ![image](PoissonNetwork.jpg)
-## Laplacian Fields are sparse and statistically stable.
+## 2) Laplacian Fields are sparse and statistically stable.
 ![image](sparse.png)
-## train the shared-kernel wavelet network for Poisson equation
+## 3) train the network for Poisson equation
 ![image](acc.png)
 ## our method is more accurate
 ![image](rec.png)
