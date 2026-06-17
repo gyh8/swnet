@@ -2,7 +2,7 @@
 Shared-Kernel Wavelet Networks for Near-Sensor Poisson Image Reconstruction, accepted by IEEE Sensors Journal
 ***
 ```text
-@ARTICLE{11563717,
+@ARTICLE{swnet,
   author={Gong, Yuanhao and Tang, Tan and Liu, Qianyan},
   journal={IEEE Sensors Journal}, 
   title={Shared-Kernel Wavelet Networks for Near-Sensor Poisson Image Reconstruction}, 
