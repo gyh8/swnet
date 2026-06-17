@@ -1,4 +1,4 @@
-# swnet, <a href="SWnet_author.pdf" target="_blank">paper(author version)</a>, <a href="https://ieeexplore.ieee.org/document/11563717" target="_blank">paper(IEEE version)</a>, [arxiv](https://arxiv.org/html/2604.24000v1)
+# swnet, <a href="https://ieeexplore.ieee.org/document/11563717" target="_blank">paper(IEEE version)</a>, [arxiv](https://arxiv.org/html/2604.24000v1)
 Shared-Kernel Wavelet Networks for Near-Sensor Poisson Image Reconstruction, accepted by IEEE Sensors Journal
 ***
 ```text
